@@ -44,7 +44,6 @@ def index(request):
 
 def specifics(request,name):
     details = get_details(name)
-    print(details)
     details = details[0]
     holder = description(details)
     return render(request,'results.html',context={'keys':holder})
