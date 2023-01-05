@@ -1,0 +1,1 @@
+This is a quick project that consumes the dog.ceo api (https://dog.ceo/dog-api/) and the dogs api from api-ninjas (https://api-ninjas.com/api/dogs) to provide detailed information on all breeds of dogs.
